@@ -27,7 +27,7 @@ Me apasiona la programación, estoy terminando el bootcamp de MinTIC (MisiónTIC
 
 ## Tecnologías que manejo:
 - Programación basica en **Python**.
-- **Spring Boog**
+- **Spring Boot**
 - **Java**
 - **MongoDB**
 - **Bootstrap**
