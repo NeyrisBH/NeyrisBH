@@ -1,7 +1,3 @@
-<meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=<a href=" 
-
 <a href="https://www.linkedin.com/in/neyris20/">
         <img align="left" alt="Ashwani's Linkdein" width="22px"
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,7 +22,7 @@
 ## Sobre mi:
 Soy estudiante de Ingeniería de Software.
 Actualmente trabajo como Ténico en Infraestructura tecnologíca.
-Me apaciona la programación, estoy teminando el bootcamp del MinTIC (MisiónTIC 2022); donde he adquirido, mucho conocimiento en Java y Spring Boot.
+Me apasiona la programación, estoy terminando el bootcamp de MinTIC (MisiónTIC 2022); donde he adquirido, mucho conocimiento en Java y Spring Boot.
 
 
 ## Tecnologías que manejo:
