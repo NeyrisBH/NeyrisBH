@@ -17,7 +17,7 @@
     <br/>
     <br/>
 
- Java | Python | Angular | Spring Boot | Bootstrap
+ Java | Python | VueJS | Spring Boot | Bootstrap
 
 ## Sobre mi:
 Soy estudiante de Ingeniería de Software.
