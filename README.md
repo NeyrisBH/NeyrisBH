@@ -22,7 +22,7 @@
 ## Sobre mi:
 Soy estudiante de Ingeniería de Software.
 Actualmente trabajo como Ténico en Infraestructura tecnologíca.
-Me apasiona la programación, estoy terminando el bootcamp de MinTIC (MisiónTIC 2022); donde he adquirido, mucho conocimiento en Java y Spring Boot.
+Me gusta la programación y estudie un Técnico laboral en habilidades en programación con énfasis en aplicaciones web
 
 
 ## Tecnologías que manejo:
