@@ -64,7 +64,7 @@ Me gusta la programación y estudie un Técnico laboral en habilidades en progra
 
 
 <a href="https://github.com/NeyrisBH">
-<img src="https://github-readme-stats.vercel.app/api?username=NeyrisBH&&show_icons=true&theme=radical&line_height=27&v=5"
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NeyrisBH&&show_icons=true&theme=radical&line_height=27&v=5"
     alt="Ashwani's GitHub Stats" />
 </a>
 
