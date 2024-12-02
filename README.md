@@ -26,6 +26,7 @@ Me gusta la programación y estudie un Técnico laboral en habilidades en progra
 
 
 ## Tecnologías que manejo:
+- **Flutter**.
 - Programación basica en **Python**.
 - **Spring Boot**
 - **Java**
