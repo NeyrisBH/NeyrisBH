@@ -17,7 +17,7 @@
     <br/>
     <br/>
 
- Java | Python | VueJS | Spring Boot | Bootstrap
+ Java | Flutter | VueJS | Spring Boot | Bootstrap
 
 ## Sobre mi:
 Soy estudiante de Ingeniería de Software.
@@ -26,7 +26,7 @@ Me gusta la programación y estudie un Técnico laboral en habilidades en progra
 
 
 ## Tecnologías que manejo:
-- **Flutter**.
+- **Flutter**
 - Programación basica en **Python**.
 - **Spring Boot**
 - **Java**
