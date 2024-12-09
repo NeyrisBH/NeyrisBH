@@ -63,7 +63,7 @@ Me gusta la programación y estudie un Técnico laboral en habilidades en progra
 
 <div align="center">
 
-### Diseño README basado en https://github.com/kautukkundan/Awesome-Profile-README-templates
+> ### Diseño README basado en https://github.com/kautukkundan/Awesome-Profile-README-templates
 
 </div>
 
